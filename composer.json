@@ -1,0 +1,28 @@
+{
+    "name": "uvicate/jso",
+    "type": "library",
+    "description": "General Class User",
+    "keywords": ["oauth", "javascript"],
+    "homepage": "https://github.com/uvicate/jso",
+    "require": {},
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Andreas Åkre Solberg",
+            "email": "andreas.solberg@uninett.no",
+            "homepage": "http://rnd.feide.no",
+            "role": "Developer"
+        },
+    	{
+    		"name": "Victor Quiroz",
+    		"email": "victorhqc@gmail.com",
+    		"homepage": "http://victorhqc.com",
+    		"role": "Maintainer"
+    	}
+    ],
+    "autoload": {
+        "psr-0": {
+            "uVicate\\": "src/"
+        }
+    }
+}
